@@ -1,0 +1,53 @@
+{
+    "name": "U.S. Postal Service",
+    "description": "Welcome to USPS.com. Find information on our most convenient and affordable shipping and mailing services. Use our quick tools to find locations, calculate prices, look up a Zip Code, and get Track & Confirm info.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/273-u-s--postal-service.jpg",
+    "tags": [
+        "have api",
+        "isp",
+        "mail"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/u-s--postal-service\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "U.S. Postal Service",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/273-u-s--postal-service.jpg",
+            "humanURL": "https:\/\/www.usps.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/u-s--postal-service-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": " http:\/\/production.shippingapis.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/united-states-postal-service"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.usps.com\/business\/webtools.htm"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/usps"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.usps.com"
+        }
+    ]
+}
